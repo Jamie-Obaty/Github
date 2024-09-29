@@ -7,8 +7,11 @@ def rev(num):
     
     return stack
 
-arr = [1,2,3,4,5]
+# Just add new features into my code
 
-rev(arr)
+arr = [1,2,3,4,5]
+arr = [5,4,3,2,1]
+
+print(rev(arr))
 
 
