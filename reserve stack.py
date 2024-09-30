@@ -1,5 +1,5 @@
 def rev(num):
-    stack  = []
+    stack  = []   # storing reverse elements
 
     while len(num) >0:
         x = num.pop()
